@@ -1,4 +1,4 @@
-<img src="/documents/logo.png" alt="Johnny" style="width:10px; height:10px" />
+<img src="/documents/logo.png" alt="Johnny" style="width:100px; height:100px" />
 
 # Schachspiel
 
