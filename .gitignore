@@ -1,0 +1,14 @@
+.idea
+*.iml
+.classpath
+.project
+.metadata
+.settings/*
+target/
+/bin
+javadoc.xml
+.eclipse-pmd
+checker.jar
+log.txt
+*.sh
+

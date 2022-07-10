@@ -1,0 +1,72 @@
+.button{
+	-fx-background-color: #ededed;
+	-fx-background-radius: 8,7,6;
+}
+
+.list-view{
+	-fx-background-radius: 8,7,6;
+	-fx-background-color: #f7be81;
+	-fx-background-insets: -1;
+	-fx-padding: 0;
+}
+
+.list-cell{
+	-fx-background-color: transparent;
+	-fx-padding: 4,0,0,0;
+}
+
+.list-view .scroll-bar .track{
+	-fx-background-color: #faac58;
+}
+
+.list-view .increment-button, .list-view .decrement-button{
+	-fx-background-color: #f99d3a;
+    -fx-border-color: #faac58;
+    -fx-border-width: 2;
+    -fx-border-radius: 1;
+    -fx-padding: 1;
+}
+
+.scroll-bar .increment-arrow, .scroll-bar .decrement-arrow{
+	-fx-background-color: #e87d09;
+}
+
+.scroll-bar .thumb{
+	-fx-background-color: #f89d3b;
+}
+
+.menu-button, .menu-button .arrow{
+	-fx-background-color: transparent;
+}
+
+.check-box{
+	-fx-text-fill:black;
+}
+
+.check-box:focused{
+	-fx-text-fill:white;
+}
+
+.check-box *.box{
+	-fx-background-color: transparent;
+}
+
+.check-box:selected .mark{
+	-fx-mark-color: green;
+} 
+
+.custom-menu-item {
+    -fx-background-color: #f7be81;
+}
+
+.custom-menu-item:focused {
+    -fx-background-color: #e87d09;
+}
+
+.context-menu {
+    -fx-background-color: #f7be81;
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 6 6 6 6, 5 5 5 5, 4 4 4 4;
+    -fx-padding: 0.666667em 0.083333em 0.666667em 0.083333em; /* 4 1 8 1 */
+}
+ 

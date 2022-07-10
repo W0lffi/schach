@@ -1,0 +1,12 @@
+.button{
+	-fx-background-color: #faa94b;
+	-fx-border-color: #fca43f;
+	-fx-border-width: 2 2 2 2;
+}
+.dialog-pane{
+	-fx-background-color: #f7be81;
+}
+
+.dialog-pane > .content.label{
+	-fx-text-fill: black;
+}
