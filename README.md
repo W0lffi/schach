@@ -1,4 +1,4 @@
-<img src="/documents/logo.png" alt="Johnny" style="width:100px; height:100px" />
+<img src="/documents/logo.png" alt="Johnny"/>
 
 # Schachspiel
 
@@ -33,11 +33,11 @@ Das Basisspiel ist in englischer Sprache, jedoch kann jeder Zeit in der GUI-Vers
 
 Die GUI-Version startet mit dem Hauptmenü, bei dem **The board with the figures** (tbWTF) aufgerufen wird.
 
-<img src="/documents/main.png" alt="main" style="width:10px; height:10px" />
+<img src="/documents/main.png" alt="main"/>
 
 Hier kann der Spieler sich entscheiden, ob er eine Partie **Mensch vs Mensch** oder **Mensch vs Computer** starten möchte. Sucht der Spieler die Herausforderung gegen die KI, so wird er gebeten, sich für einen Schweregrad der KI (einfach, schwer, oder im Verlauf des Spiels sehr herausfordernd) und seine Farbe zu entscheiden.
 
-<img src="/documents/query.png" alt="query" style="width:10px; height:10px" />
+<img src="/documents/query.png" alt="query"/>
 
 Man kann verschiedene Optionen per Auswahlmenü (oben rechter Button) an- und abwählen:
 
@@ -46,7 +46,7 @@ Man kann verschiedene Optionen per Auswahlmenü (oben rechter Button) an- und ab
 * **Turn field** Drehe das Spielfeld, sodass die aktive Spielfarbe für den Zug unten steht
 * **Display check** Zeige an, ob ein König im Schach steht
 
-<img src="/documents/game.png" alt="game" style="width:10px; height:10px" />
+<img src="/documents/game.png" alt="game"/>
 
 Im Spielverlauf können überdies weitere Funktionalitäten genutzt werden, die auf der linken Seite zur Auswahl stehen:
 
